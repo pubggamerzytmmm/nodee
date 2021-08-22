@@ -3,11 +3,11 @@ var pg = require('pg')
     , query;
 
 var config = process.env.DATABASE_URL || {
-    user: 'postgres', 
-    database: 'postgres', 
-    password: 'password', 
-    host: 'localhost', 
-    port: 5432, 
+  user: 'mm9jNRICo5', 
+  database: 'mm9jNRICo5', 
+  password: '8zMKWGagQ8', 
+  host: 'remotemysql.com', 
+  port: 3306, 
 };
 
 client = new pg.Client(config);
