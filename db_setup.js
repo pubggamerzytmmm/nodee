@@ -3,10 +3,10 @@ var pg = require('pg')
     , query;
 
 var config = process.env.DATABASE_URL || {
-  user: 'mm9jNRICo5', 
-  database: 'mm9jNRICo5', 
-  password: '8zMKWGagQ8', 
-  host: 'remotemysql.com', 
+  user: 'sql10525763', 
+  database: 'sql10525763', 
+  password: 'LK7hdMmzjE', 
+  host: 'sql10.freemysqlhosting.net	', 
   port: 3306, 
 };
 
