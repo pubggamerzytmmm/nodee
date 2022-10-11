@@ -18,12 +18,12 @@ blocktrail_opts: {
 WALLET_NAME: 'forkcoinnetwork',
 WALLET_PASS: 'Daskurshandbuch73@',
 
-TELE_TOKEN: '1960673654:AAGn-c84pYh5UulNiRhJp90-q8AyMT1TPuw', // looks like '364474590:AAH9J1HZrf8_TsX6sm96O4xAlF9MjyfEbpM'
+TELE_TOKEN: '5589870198:AAEdcZhnIFm8V1kMqCtEDvp7K4OCAf1fxJk', // looks like '364474590:AAH9J1HZrf8_TsX6sm96O4xAlF9MjyfEbpM'
 
 BOTNAME: 'BaaCoin', // the name of your bot
 BOT_USERNAME: 'NodejsInvbot', // your bot's username (without the @)
 
-HEROKU_URL: 'https://forkcoin.herokuapp.com:443/',
+HEROKU_URL: 'https://ndojiaowd.herokuapp.com/',
 
 // BOT PARAMETERS
 // these need to be filled in with user_ids (as integers)
